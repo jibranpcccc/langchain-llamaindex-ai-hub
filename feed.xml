@@ -4,10 +4,17 @@
     <title>LangChain &amp; LlamaIndex AI Developers Hub</title>
     <link>https://jibranpcccc.github.io/langchain-llamaindex-ai-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:05:42 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/langchain-llamaindex-ai-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                    <item>
+                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/langchain-llamaindex-ai-hub/#langchain-llamaindex-ai-hub-forum-20261017-1-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:05:42 GMT</pubDate>
+      <description>Newly verified community added to LangChain &amp; LlamaIndex AI Developers Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/langchain-llamaindex-ai-hub/#langchain-llamaindex-ai-hub-forum-20261017-1-2026-11-02</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/langchain-llamaindex-ai-hub/#langchain-llamaindex-ai-hub-discord-20261005-1-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 06:06:01 GMT</pubDate>
       <description>Newly verified community added to LangChain &amp; LlamaIndex AI Developers Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
-      <link>https://www.reddit.com/r/aws/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/langchain-llamaindex-ai-hub/#langchain-llamaindex-ai-hub-reddit-20261003-1-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 06:29:56 GMT</pubDate>
-      <description>Newly verified community added to LangChain &amp; LlamaIndex AI Developers Hub: Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.</description>
     </item>
   </channel>
 </rss>
